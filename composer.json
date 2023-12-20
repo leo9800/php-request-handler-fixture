@@ -18,7 +18,7 @@
         "phpstan/phpstan": "^1.10"
     },
     "require": {
-        "nyholm/psr7": "^1",
+        "nyholm/psr7": "^1.8",
         "psr/http-server-handler": "^1.0",
         "psr/http-message": "^2.0"
     }
